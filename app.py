@@ -13,7 +13,7 @@ from views.admin_ui import render_admin_app
 
 # Page configuration
 st.set_page_config(
-    page_title="SuperPoll",
+    page_title="Andaman Poll",
     page_icon="🗳️",
     layout="wide",
     initial_sidebar_state="collapsed"

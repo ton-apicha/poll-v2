@@ -70,7 +70,7 @@ def render_login():
     """Render login page"""
     st.markdown("""
     <div style="text-align: center; padding: 60px 0;">
-        <h1 style="color: #1e40af;">🔐 SuperPoll Admin</h1>
+        <h1 style="color: #1e40af;">🔐 Andaman Poll Admin</h1>
         <p style="color: #6b7280;">กรุณาใส่รหัสผ่านเพื่อเข้าสู่ระบบ</p>
     </div>
     """, unsafe_allow_html=True)
@@ -91,7 +91,7 @@ def render_header():
     """Render admin header"""
     st.markdown("""
     <div class="admin-header">
-        <h1>🗳️ SuperPoll Admin</h1>
+        <h1>🗳️ Andaman Poll Admin</h1>
         <p>ระบบจัดการแคมเปญสำรวจความคิดเห็น</p>
     </div>
     """, unsafe_allow_html=True)

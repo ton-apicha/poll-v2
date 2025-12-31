@@ -188,7 +188,7 @@ def create_default_settings(conn):
     
     default_settings = [
         ("server_url", "http://localhost:8501", "URL ของ server สำหรับสร้าง QR Code"),
-        ("app_name", "SuperPoll", "ชื่อแอปพลิเคชัน"),
+        ("app_name", "Andaman Poll", "ชื่อแอปพลิเคชัน"),
         ("admin_password", "superpoll2025", "รหัสผ่านเข้าระบบ Admin"),
     ]
     
